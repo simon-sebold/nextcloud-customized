@@ -4,5 +4,7 @@
   "commitMessageSuffix": " 🚀",
   "labels": ["Renovatebot"],
   "assignees": ["simon-sebold"],
-  "fetchChangeLogs": "pr"
+  "fetchChangeLogs": "pr",
+  "automerge": true,
+  "automergeType": "pr"
 }
