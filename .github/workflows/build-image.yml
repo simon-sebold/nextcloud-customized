@@ -38,6 +38,8 @@ jobs:
             exit 1
           fi
 
+          VERSION="${VERSION}-apache"
+
           echo "Detected Nextcloud version: $VERSION"
           echo "value=$VERSION" >> "$GITHUB_OUTPUT"
 
