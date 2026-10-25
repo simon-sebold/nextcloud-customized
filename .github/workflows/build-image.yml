@@ -7,7 +7,6 @@ on:
       - main
     paths:
       - Dockerfile
-      - .github/workflows/build-image.yml
   workflow_dispatch:
 
 env:
