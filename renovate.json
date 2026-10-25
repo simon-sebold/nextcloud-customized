@@ -6,5 +6,6 @@
   "assignees": ["simon-sebold"],
   "fetchChangeLogs": "pr",
   "automerge": true,
-  "automergeType": "pr"
+  "automergeType": "pr",
+  "ignoreTests": true
 }
