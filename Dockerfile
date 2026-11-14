@@ -1,4 +1,4 @@
-FROM nextcloud:35.0.2-apache
+FROM nextcloud:35.0.3-apache
 
 USER root
 
